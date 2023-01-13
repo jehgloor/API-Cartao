@@ -1,0 +1,6 @@
+AutoMapper.Extensions.Microsoft.DependencyInjection 8.1.1
+Microsoft.EntityFrameworkCore 5.0.5
+Microsoft.EntityFrameworkCore.SqlServer 5.0.5
+Microsoft.EntityFrameworkCore.Tools 5.0.5
+MySql.EntityFrameworkCore 5.0.3
+Swashbuckle.AspNetCore 6.2.2
